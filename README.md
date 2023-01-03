@@ -8,4 +8,4 @@
 
 # Welcome to ENTR-451
 
-This is my first GitHub repository. I made it in my first class
+This is my first GitHub repository. I made it in my first class. I edited in Gitpod.
